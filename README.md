@@ -1,2 +1,1 @@
-Portfolio
-This is a simple portfolio using html and css
+ This is a simple portfolio using html and css
